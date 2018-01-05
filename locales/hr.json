@@ -1,8 +1,8 @@
 {
 	"select-user-type.who_you_are": "Tko ste Vi? (možete izmjeniti kasnije)",
-	"select-user-type.who_you_are_desc": "You must select one of these to begin with",
+	"select-user-type.who_you_are_desc": "Za početak odaberite nešto od ponuđenog",
 	"select-user-type.driver": "Driver",
-	"select-user-type.driver_desc": "User can be either a taxi driver, or a passenger. You must select this option now.",
+	"select-user-type.driver_desc": "Korisnik može biti vozač ili putnik. Odaberi opciju sada You.",
 	"select-user-type.passenger": "Passenger",
 	"select-user-type.passenger_desc": "User can be either a taxi driver, or a passenger. You must select this option now.",
 	"request-phone.type_your_phone": "Please send us your phone number. We do not share this number without permission.",
