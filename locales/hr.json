@@ -1,5 +1,5 @@
 {
-	"select-user-type.who_you_are": "Who are you? (you can change this later)",
+	"select-user-type.who_you_are": "Tko ste Vi? (možete izmjeniti kasnije)",
 	"select-user-type.who_you_are_desc": "You must select one of these to begin with",
 	"select-user-type.driver": "Driver",
 	"select-user-type.driver_desc": "User can be either a taxi driver, or a passenger. You must select this option now.",
